@@ -1,4 +1,4 @@
 Hola
 Hola 
 Tenes sueño?
-["dialogoNPC-SI"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
